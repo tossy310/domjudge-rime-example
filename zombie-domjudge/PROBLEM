@@ -1,0 +1,15 @@
+# -*- coding: utf-8; mode: python -*-
+
+pid='A'
+
+problem(
+  time_limit=1.0,
+  id=pid,
+  title="Zombie Land 2",
+  reference_solution='darsein',
+  )
+
+domjudge_config(
+  problem_file="../statement/zombie.pdf",
+  color="#ffff00",
+)

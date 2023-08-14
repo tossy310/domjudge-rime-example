@@ -1,0 +1,13 @@
+# -*- coding: utf-8; mode: python -*-
+
+# You can load plugins here.
+use_plugin('rime_plus')
+use_plugin('judge_system.domjudge')
+
+project(library_dir='common', required_rime_plus_version='1.0.0')
+
+domjudge_config(
+    url='http://localhost:8000/',
+    contest_id=3,
+    username='admin',
+    password='domjudge')
