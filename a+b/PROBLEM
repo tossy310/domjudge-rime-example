@@ -1,0 +1,11 @@
+# -*- coding: utf-8; mode: python -*-
+
+problem(
+    title = "A+B Problem",
+    id = "B",
+    time_limit = 1.0,
+)
+
+domjudge_config(
+    color="#ff0000",
+)
