@@ -1,0 +1,3 @@
+# -*- coding: utf-8; mode: python -*-
+
+cxx_solution(src='main.cc')

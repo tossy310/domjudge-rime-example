@@ -1,0 +1,13 @@
+# -*- coding: utf-8; mode: python -*-
+
+problem(
+  time_limit=1.0,
+  id='C',
+  title="Boolean switch search",
+  reference_solution='cpp-correct',
+  )
+
+domjudge_config(
+  problem_file="../statement/boolfind.pdf",
+  color="#ff0000",
+)

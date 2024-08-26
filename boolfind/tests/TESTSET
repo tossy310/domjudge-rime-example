@@ -1,0 +1,4 @@
+# -*- coding: utf-8; mode: python -*-
+
+cxx_reactive(src='validate.cc', dependency=['validate.h'],
+          variant=domjudge_reactive_runner)

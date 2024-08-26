@@ -1,0 +1,3 @@
+# -*- coding: utf-8; mode: python -*-
+
+java_solution(src='Main.java')
