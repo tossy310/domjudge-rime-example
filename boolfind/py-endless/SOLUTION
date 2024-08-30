@@ -1,0 +1,3 @@
+# -*- coding: utf-8; mode: python -*-
+
+script_solution(src='main.py', challenge_cases=[])
